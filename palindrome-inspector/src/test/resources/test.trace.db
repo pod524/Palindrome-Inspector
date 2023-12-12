@@ -1,0 +1,25 @@
+2023-12-12 20:53:51.326254Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PALINDROME_REQUEST" not found (this database is empty); SQL statement:
+select pr1_0.id,pr1_0.is_valid,pr1_0.text,pr1_0.user_name from palindrome_request pr1_0 [42104-224]
+2023-12-12 21:05:23.091339Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:06:54.639571Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:06:59.023554Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:07:09.633932Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:07:16.053371Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:08:25.396870Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 21:32:45.452496Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 22:10:11.168054Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 22:34:50.114070Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 22:35:42.315877Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-12 22:36:02.314487Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
